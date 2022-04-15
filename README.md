@@ -5,7 +5,8 @@
 ===
 
 代码修改自：https://blog.csdn.net/weixin_39220714/article/details/84867035
-我的博客：
+我的博客：https://blog.csdn.net/m0_66480474/article/details/124203923
+Git bash还没弄明白，下载代码请去博客。
 
 新手向代码参数修改教程：
 ---
